@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p></p>
 
 ### Technology Stack📚
-<div align='center'>
+<div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### About Me👩‍💻
 
-<div align='center'>
+<div>
   <a href="https://velog.io/@koseyeon"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   </div>
 <p></p>

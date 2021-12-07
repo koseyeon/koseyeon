@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 ![Seyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseyeon&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseyeon&langs_count=8)](https://github.com/koseyeon)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koseyeon&theme=dracula)](https://github.com/koseyeon)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koseyeon&layout=compact&theme=dracula)](https://github.com/koseyeon)
 
 
 ### About Me👩‍💻

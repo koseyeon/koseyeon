@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
  -->
 ### Welcome👋
-### Technology Stack📚
+
+---
+### My Technology Stack📚
+
 <div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -27,9 +30,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </div>
+
+---
 ### My stats 🤓
+
 ![Seyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseyeon&show_icons=true)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseyeon&langs_count=8)](https://github.com/koseyeon)-->
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koseyeon&layout=compact&theme=dracula)](https://github.com/koseyeon) -->
+---
 ### About Me👩‍💻
-<a href="https://velog.io/@koseyeon"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@koseyeon">https://velog.io/@koseyeon <img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>

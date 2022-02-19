@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koseyeon)](https://solved.ac/koseyeon)
 
 ---
-### About Me👩‍💻
+### My Blog👩‍💻
 <a href="https://velog.io/@koseyeon">https://velog.io/@koseyeon <img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 

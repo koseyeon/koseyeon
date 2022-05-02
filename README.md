@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Seyeon's%20GitHub&fontSize=70&animation=scaleIn)
 
  -->
-### Welcome👋
+### 안녕하세요! Welcome! 👋 
 
 ---
 ### Current Stack📚

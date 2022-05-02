@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 안녕하세요! Welcome! 👋 
 
 ---
-### Current Stack📚
+### 현재 공부중인 기술📚
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>

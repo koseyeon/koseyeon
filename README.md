@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 ### 🤓 My stats 
 
-![Seyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseyeon&show_icons=true)
-<img width="400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koseyeon">
+<span><img width="400px" src="https://github-readme-stats.vercel.app/api?username=koseyeon&show_icons=true"></span>
+<span><img width="320px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koseyeon"></span>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseyeon&langs_count=8)](https://github.com/koseyeon)-->
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koseyeon&layout=compact&theme=dracula)](https://github.com/koseyeon) -->

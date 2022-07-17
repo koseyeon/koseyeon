@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 안녕하세요! Welcome! 👋 
+### 👋 Welcome!
 
 ---
 ### 🌱 I’m currently learning

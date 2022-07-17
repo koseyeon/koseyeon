@@ -12,17 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- <div align='center'>
-  
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Seyeon's%20GitHub&fontSize=70&animation=scaleIn)
-
- -->
 ### 안녕하세요! Welcome! 👋 
 
 ---
 ### 현재 공부중인 기술📚
-
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b??style=for-the-badge&logo=Javascript&logoColor=white"/>
@@ -32,11 +25,6 @@ Here are some ideas to get you started:
 ### My stats 🤓
 
 ![Seyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseyeon&show_icons=true)
+<img width="485px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koseyeon">
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseyeon&langs_count=8)](https://github.com/koseyeon)-->
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koseyeon&layout=compact&theme=dracula)](https://github.com/koseyeon) -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koseyeon)](https://solved.ac/koseyeon)
-
----
-### My Blog👩‍💻
-<a href="https://velog.io/@koseyeon">https://velog.io/@koseyeon <img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-

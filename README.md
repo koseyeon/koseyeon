@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 ### 안녕하세요! Welcome! 👋 
 
 ---
-### 현재 공부중인 기술📚
+### 🌱 I’m currently learning
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b??style=for-the-badge&logo=Javascript&logoColor=white"/>
 </div>
 
 ---
-### My stats 🤓
+### 🤓 My stats 
 
 ![Seyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseyeon&show_icons=true)
-<img width="485px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koseyeon">
+<img width="400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koseyeon">
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseyeon&langs_count=8)](https://github.com/koseyeon)-->
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koseyeon&layout=compact&theme=dracula)](https://github.com/koseyeon) -->

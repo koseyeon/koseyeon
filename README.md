@@ -12,15 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Welcome!
+### 👋 이력
+
+- 2016.03 ~ 2022.08 광주과학기술원 전기전자컴퓨터공학부 졸업
+- 2022.07 ~ 2022.12 네이버커넥트재단 부스트캠프 웹모바일 7기 수료
 
 ---
-### 🌱 I’m currently learning
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b??style=for-the-badge&logo=Javascript&logoColor=white"/>
-</div>
+### 🌱 프로젝트
 
+### 모뉴먼트 갤러리
+- 소개: 노션 API를 이용해 사용자의 노션 글, 그림 데이터들을 받아오고 3D 공간 안에서 시각화한 프로젝트.
+- 기간: 2022.11-2021.12
+- 포지션: 프론트엔드 개발 
+- 기술 스택(FE): TypeScript, React, React Three Fiber, Zustand, Sass, Vite
+- 레포지토리 링크: https://github.com/boostcampwm-2022/Web10-MonumentGallery
+
+### 지스트 청원
+- 소개: 청와대 국민청원 서비스를 벤치마킹하여 학교에 학생의 의견을 공식적으로 건의할 수 있도록 한 프로젝트.
+- 기간: 2021.08-2022.03
+- 역할: 백엔드 개발
+- 기술 스택(BE): Java, SpringBoot, MySQL
+- 레포지토리 링크: https://github.com/GIST-Petition-Site-Project/GIST-petition-server
 ---
 ### 🤓 My stats 
 

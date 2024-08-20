@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 **Snowball Showdown**
 - 소개: 눈덩이를 굴리며 싸우는 게임
 - 기간: 2024.04 ~
-- 기술 스택: Flutter, Spring
+- 기술 스택: Flutter, SpringBoot
 ---
 ### 🌱 협업 프로젝트
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 소개: 청와대 국민청원 서비스를 벤치마킹하여 학교에 학생의 의견을 공식적으로 건의할 수 있도록 한 프로젝트.
 - 기간: 2021.08-2022.03
 - 역할: 백엔드 개발
-- 기술 스택(BE): Spring, MySQL
+- 기술 스택(BE): SpringBoot, Java
 - 레포지토리 링크: https://github.com/GIST-Petition-Site-Project/GIST-petition-server
 ---
 ### 🤓 My stats 

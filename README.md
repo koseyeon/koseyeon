@@ -18,17 +18,11 @@ Here are some ideas to get you started:
 - 2016.03 ~ 2022.08 광주과학기술원 전기전자컴퓨터공학부 졸업
 
 ---
-### 🪴 개인 프로젝트
-**Snowball Showdown**
-- 소개: 눈덩이를 굴리며 싸우는 게임
-- 기간: 2024.04 ~
-- 기술 스택: Flutter, SpringBoot
----
 ### 🌱 협업 프로젝트
 
 **Monument Gallery**
 - 소개: 노션 API를 이용해 사용자의 노션 글, 그림 데이터들을 받아오고 3D 공간 안에서 시각화한 프로젝트.
-- 기간: 2022.11-2021.12
+- 기간: 2022.11-2022.12
 - 역할: 프론트엔드 개발 
 - 기술 스택(FE): React, TypeScript
 - 레포지토리 링크: https://github.com/boostcampwm-2022/Web10-MonumentGallery
